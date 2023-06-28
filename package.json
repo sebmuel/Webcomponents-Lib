@@ -1,0 +1,20 @@
+{
+  "name": "sitepoint-webcomponents",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "bootstrap-elements": "^0.1.0",
+    "konva": "^9.2.0",
+    "lit": "^2.7.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.2",
+    "vite": "^4.3.9"
+  }
+}
